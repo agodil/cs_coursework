@@ -1,0 +1,1 @@
+Console implementation of a game of War.
