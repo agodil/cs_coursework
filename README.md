@@ -1,2 +1,2 @@
 # cs_coursework
-coursework repository
+repository of selected coursework
