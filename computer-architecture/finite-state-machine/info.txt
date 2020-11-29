@@ -1,0 +1,1 @@
+Three finite state machines (2 are Moore model, 1 is Mealy model) designed using Logisim.
