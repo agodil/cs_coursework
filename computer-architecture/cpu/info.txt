@@ -1,0 +1,1 @@
+4 bit MIPS CPU that implements the given instruction set. Grader circuit was given beforehand for testing.
