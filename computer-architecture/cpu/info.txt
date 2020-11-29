@@ -1,1 +1,4 @@
-4 bit MIPS CPU that implements the given instruction set. Grader circuit was given beforehand for testing.
+4 bit MIPS CPU that implements the given instruction set. Includes control unit, ALU, and program counter.
+Instructions are 16 bits and in the form "opcode dest_reg reg_a reg_b" or "opcode dest_reg reg_a immediate"
+All intruction components are four bits wide.
+Grader circuit was given beforehand for testing.
