@@ -1,0 +1,2 @@
+Unix script that transforms data using regular expressions. The given files should contain lines of data that satisfy the regular expression: 
+"^[0123456789][0123456789][0123456789]-[0123456789][0123456789]-[0123456789][0123456789][0123456789][0123456789], .*, .*$"
