@@ -1,1 +1,3 @@
-Three finite state machines (2 are Moore model, 1 is Mealy model) designed using Logisim.
+Finite state machines designed using Logisim.
+Four Bit Parity - Moore machine with a 1 bit input that outputs the even parity for each of four bits of input.
+Vending - Mealy machine that represents a vending machine that receives coins as input. Outputs a 1 if the machine receives at least 30 cents worth of input.
