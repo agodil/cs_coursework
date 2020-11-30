@@ -1,3 +1,4 @@
 Finite state machines designed using Logisim.
+Counter - Moore machine that represents a 3 bit counter.
 Four Bit Parity - Moore machine with a 1 bit input that outputs the even parity for each of four bits of input.
 Vending - Mealy machine that represents a vending machine that receives coins as input. Outputs a 1 if the machine receives at least 30 cents worth of input.
