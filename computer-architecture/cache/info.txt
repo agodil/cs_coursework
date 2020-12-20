@@ -1,0 +1,18 @@
+Hardware cache designed using the Logisim Evolution simulator.
+Grader circuit given beforehand for testing.
+
+Specifications:
+10 bit addresses
+24 byte cache size
+2 sets
+3 ways
+4 byte blocks
+write back policy
+LRU eviction policy
+
+Testing:
+Open grader circuit, right click Cache and reload.
+Load solution file into ROM in CheckerCirc subcircuit.
+Load corresponding memory file into RAM in main circuit.
+Load corresponding input file into ROM in InputGeneratorCirc sub circuit.
+Start simulation (Simulate->Ticks Enabled)
